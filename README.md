@@ -226,3 +226,4 @@ Business insight summary with recommendations
 👤 Author
 
 Developed as part of a professional Business Intelligence project focused on decision support and advanced Power BI analytics."# MEDINCODEX-Plants-data-analysis-with-PBI" 
+"# MEDINCODEX-MEDINCODEX-Plants-data-analysis-PBI" 
