@@ -1,0 +1,24 @@
+Ce visuel montre les 5 produits les plus performants en quantité.
+Le sous-titre est dynamique et affiche la quantité totale cumulée des 5 produits sélectionnés, en fonction des filtres et de la période.
+
+Ce graphique montre l’évolution de la quantité dans le temps.
+La ligne de tendance permet d’identifier la dynamique globale de l’activité.”
+
+La moyenne mobile permet de lisser les variations et d’identifier la tendance générale lorsque la ligne de tendance n’est pas disponible.”
+
+Nous avons utilisé une moyenne mobile pour lisser les variations et mettre en évidence la tendance globale de l’activité.
+
+Ce graphique montre l’évolution de la quantité dans le temps.
+
+La moyenne mobile permet d’identifier la tendance globale en lissant les variations ponctuelles.”
+ Ce graphique montre la répartition de l’activité par catégorie de produits et met en évidence la contribution relative de chaque catégorie.
+
+Les KPI permettent d’avoir une vision globale et instantanée de la performance, tout en restant dynamiques et filtrables.
+
+
+Les KPI permettent d’avoir une vision globale et instantanée de la performance, tout en restant dynamiques et filtrables.
+
+La matrice permet d’analyser les indicateurs par client.
+La mise en forme conditionnelle facilite l’identification rapide des performances faibles ou élevées.”
+
+Les signets enregistrent l’état des données, des filtres et de l’affichage afin de créer une navigation interactive entre différentes vues d’analyse.
