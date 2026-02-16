@@ -9,7 +9,7 @@ The objective was to centralize data from multiple operational sources, apply pr
 
 Build a professional and interactive Power BI report
    
-Implement a reliable and optimized data model (Star Schema)
+Implement a reliable and optimized data model (Star Schema)  
 
 Translate business questions into measurable KPIs
 
